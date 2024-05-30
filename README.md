@@ -6,7 +6,7 @@
 
 ## Демо
 
-Вы можете просмотреть демонстрацию проекта, перейдя по ссылке: [EduTest project](https://git-hub-js-top-picks.vercel.app/)
+Вы можете просмотреть демонстрацию проекта, перейдя по ссылке: [EduTest project](https://edu-test-livid.vercel.app/)
 
 ## Технологический стек
 

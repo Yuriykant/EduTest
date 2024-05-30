@@ -1,0 +1,33 @@
+.content__progress {
+  margin-bottom: 15px;
+  display: flex;
+  gap: 5px;
+}
+
+.progress__line_start {
+  height: 10px;
+  width: 50px;
+  background-color: #d8d4d4;
+}
+
+.progress__line_active {
+  cursor: pointer;
+  height: 10px;
+  width: 50px;
+  background-color: var(--constant-accent);
+}
+
+.progress__line_active:hover {
+  box-shadow: 0 0 5px var(--constant-accent);
+}
+
+.progress__line_ready {
+  cursor: pointer;
+  height: 10px;
+  width: 50px;
+  background-color: #3f3a3a;
+}
+
+.progress__line_ready:hover {
+  box-shadow: 0 0 5px var(--constant-accent);
+}

@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "lib": [
+      "dom.iterable",
+      "es2020",
+      "dom"
+    ],
+    "baseUrl": "src",
+    "paths": {
+      "@components/*": [
+        "Components/*"
+      ],
+      "@features/*": [
+        "features/*"
+      ],
+    }
+  },
+  "include": [
+    "src",
+    "src/__mock__/mockQuestion.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

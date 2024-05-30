@@ -1,0 +1,17 @@
+.header-content {
+  margin: 50px 0 20px 0;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-content__timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  border: solid gainsboro 1px;
+  padding: 10px;
+  cursor: pointer;
+}

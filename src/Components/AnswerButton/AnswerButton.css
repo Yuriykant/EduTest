@@ -1,0 +1,8 @@
+.content__button {
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: var(--constant-accent);
+  color: var(--background-zero);
+  border: none;
+}
